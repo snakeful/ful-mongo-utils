@@ -1,0 +1,31 @@
+{
+  "name": "ful-mongo-utils",
+  "version": "1.0.0",
+  "description": "Database utils for MongoDB with mongojs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snakeful/ful-mongo-utils.git"
+  },
+  "keywords": [
+    "mongo",
+    "db",
+    "mongojs",
+    "utils"
+  ],
+  "author": {
+    "name": "Carlos Ful",
+    "email": "<fulblind@gmail.com>"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snakeful/ful-mongo-utils/issues"
+  },
+  "homepage": "https://github.com/snakeful/ful-mongo-utils#readme",
+  "dependencies": {
+    "mongojs": "^2.4.1"
+  }
+}
